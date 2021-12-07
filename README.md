@@ -14,6 +14,8 @@ Apelare decrypt: python encrypt.py (Parola) (input) (output)
 ## Aflarea parolei echipei adverse:
 ### Prima parte (daca stim si input-ul): 
 
+***Codul efectiv il gasiti in partea1.py.***
+
 :lemon:_"Easy peasy lemon squeezy"_:lemon:: Se xor-eaza cele doua fisiere (input.txt si output) si rezulta cheia.
 
 De ce merge?
@@ -31,7 +33,7 @@ Astfel,
 
 #### Metoda 1)    Brute Force: 
 
-Codul efectiv il gasiti in partea2.py.
+***Codul efectiv il gasiti in partea2.py.***
 
 Ca sa aflam cheia va trebui sa divizam problema in doua parti. 
 
