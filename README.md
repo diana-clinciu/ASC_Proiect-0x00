@@ -14,11 +14,11 @@ Apelare decrypt: python encrypt.py (Parola) (input) (output)
 ## Aflarea parolei echipei adverse:
 ### Prima parte (daca stim si input-ul): 
 
-:lemon:_"Easy peasy lemon squeezy"_: Se xor-eaza cele doua fisiere (input.txt si output) si rezulta cheia.
+:lemon:_"Easy peasy lemon squeezy"_:lemon:: Se xor-eaza cele doua fisiere (input.txt si output) si rezulta cheia.
 
 De ce merge?
 
-Ne folosim de ralatia:
+Ne folosim de relatia:
 
       a ^ (a ^ b) = a ^ a ^ b = 0 ^ b = b 
       
