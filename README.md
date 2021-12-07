@@ -10,7 +10,7 @@ Apelare encrypt: python encrypt.py (Parola) (input) (output)
 
 Apelare decrypt: python encrypt.py (Parola) (input) (output)
 
-
+<!--
 ## Aflarea parolei echipei adverse:
 ### Prima parte (daca stim si input-ul): 
 
@@ -30,3 +30,5 @@ Astfel,
 ### A doua parte (fara input, noroc cu criptopals): 
 
 Brute Force: 
+
+-->
