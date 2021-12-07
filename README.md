@@ -12,9 +12,14 @@ Apelare decrypt: python encrypt.py (Parola) (input) (output)
 
 
 ## Aflarea parolei echipei adverse:
+
+ **Nu am pus si input-ul / output-ul echipei adverse in repo!!!**
+ 
 ### Prima parte (daca stim si input-ul): 
 
 ***Codul efectiv il gasiti in partea1.py.***
+
+      Apelare partea1.py: python partea1.py
 
 :lemon:_"Easy peasy lemon squeezy"_:lemon:: Se xor-eaza cele doua fisiere (input.txt si output) si rezulta cheia.
 
@@ -35,6 +40,8 @@ Astfel,
 
 ***Codul efectiv il gasiti in partea2.py.***
 
+      Apelare partea2.py: python partea2.py output
+      
 Ca sa aflam cheia va trebui sa divizam problema in doua parti. 
 
 ##### Partea 1: Aflam lungimea cheii.
