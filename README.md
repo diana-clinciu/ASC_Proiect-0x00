@@ -51,7 +51,7 @@ Ca sa aflam cheia va trebui sa divizam problema in doua parti.
 
       Dar, de ce? Distanta Hamming ne spune cat de "asemanatoare" sunt blocurile. Cu cat mai asemanatoare, cu atat avem sanse mai mari sa fi ales lungimea adevarata a cheii (pt ca ce  face blocurile asemanatoare este faptul ca au fost xor-uite cu caracterele cheii)
       
-4. Insumam distantele Hamming si le impartim la L. Astfel, obtinem un "scor hamming" dupa care putem alege lungimea cea mai probabila.
+4. Insumam distantele Hamming, facem media si o impartim la lungimea cheii. Astfel, obtinem un "scor hamming" dupa care putem alege lungimea cea mai probabila.
 5. Lungimea adevarata a cheii este cea care are "scor hamming" cat mai mic. 
 
 ##### Partea 2: Aflam caracterele cheii
@@ -114,7 +114,7 @@ Codul de python pe care l-am folosit in ubuntu este:
 ## Resurse:
 Pentru metoda "brute force": 
 
-https://idafchev.github.io/crypto/2017/04/13/crypto_part1.htmt 
+https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html 
 
 https://arpitbhayani.me/blogs/decipher-single-xor
 
