@@ -36,7 +36,7 @@ Astfel,
 
 ### A doua parte (fara input): 
 
-#### Metoda 1)    Brute Force: 
+#### Metoda 1)    Brute Force 👹: 
 
 ***Codul efectiv il gasiti in partea2.py.***
 
